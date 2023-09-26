@@ -6,7 +6,7 @@ from model import *
 #prediction = predictions("istockphoto-1094166778-612x612.jpg")
 
 #openai.organization = "org-bSI6wsPa9iLKnICno111wZfw"
-openai.api_key = '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'
+openai.api_key =
 
 
 #def chat_with_chatgpt( model=):
